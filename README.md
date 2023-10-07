@@ -7,6 +7,9 @@ The library for web and native user interfaces [react-legacy](https://legacy.rea
 
 - [dev/0 - legacy react 17 - Add a DOM Container to the HTML with ReactDOM.render](./dev-0/README.md)
 - [dev/1 - legacy react 18 - Add a DOM Container to the HTML](./dev-1/README.md)
+- [dev/2 -  install with npm](./dev-2/README.md)
+- [dev/3 - react app with create-react-app](./dev-3/README.md)
+- [dev/4 - react app with vite](./dev-4/README.md)
 
 
 - If you need to review [JavaScript, we recommend reading this guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript).
