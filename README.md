@@ -10,6 +10,7 @@ The library for web and native user interfaces [react-legacy](https://legacy.rea
 - [dev/2 -  install with npm](./dev-2/README.md)
 - [dev/3 - react app with create-react-app](./dev-3/README.md)
 - [dev/4 - react app with vite](./dev-4/README.md)
+- [dev/5 - react app with astro](./dev-5/README.md)
 
 
 - If you need to review [JavaScript, we recommend reading this guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript).
